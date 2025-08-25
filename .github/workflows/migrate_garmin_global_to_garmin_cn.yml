@@ -1,4 +1,4 @@
-name: Migrate Garmin Global to Garmin CN
+name: 、Migrate Garmin Global to Garmin CN
 
 on:
   workflow_dispatch:
